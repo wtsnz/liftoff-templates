@@ -65,8 +65,8 @@ application_target_groups:
     - Views:
   - Resources:
     - Images.xcassets
-    - Fonts
-    - Data
+    - Fonts:
+    - Data:
     - Info.plist
 
 unit_test_target_groups:
