@@ -6,7 +6,7 @@ It differs ever so slightly, and is tailored to how I like my Xcode projects set
 
 ## Usage
 
-First install liftoff [https://github.com/kreeger/liftoff-templates](https://github.com/kreeger/liftoff-templates)
+First install liftoff [https://github.com/thoughtbot/liftoff](https://github.com/thoughtbot/liftoff)
 
 ### Installation for me
 Clone into my project folder, then create a symlink
